@@ -1,12 +1,15 @@
 # BigIdeasFinalProject
-
+## Team name: Silent Steel
 ## Project Overview
 Our final project evaluates Pittsburgh neighborhoods to determine the overall "best" neighborhood to live in by analyzing three metrics: **public safety**, **firearm safety**, and **environmental richness**. All datasets are sourced from the City of Pittsburgh via the Western Pennsylvania Regional Data Center.
 
 ---
 
 ## Team Members & Datasets
-* **Andrew Snyder** – *Police Arrest Data*
+* **Andrew Snyder - ads610@pitt.edu**
+*Pittsburgh Police Arrest Data
+https://data.wprdc.org/dataset/arrest-data
+
 * **Danny Wan** – *Pittsburgh City Trees Data*
 * **Owen Arnold** – *Firearm Seizures Per Capita*
 
