@@ -8,7 +8,7 @@ Our final project evaluates Pittsburgh neighborhoods to determine the overall "b
 ## Team Members & Data Sets
 **Andrew Snyder - ads610@pitt.edu**
 
-**Pittsburgh Police Arrest Data**
+_Pittsburgh Police Arrest Data_
 https://data.wprdc.org/dataset/arrest-data
 
 **Danny Wan** – *Pittsburgh City Trees Data*
